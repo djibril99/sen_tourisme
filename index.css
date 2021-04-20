@@ -1,7 +1,7 @@
 			/* Mise en place du menu*/
 #fond_d_ecran
 {
-background-image: url('fonda.png');
+background-image: url(fonda.png);
 margin-top: 5px;		   
 height: 120%; 
 width:100% ;
